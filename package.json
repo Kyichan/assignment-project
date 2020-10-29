@@ -2,7 +2,7 @@
   "name": "music-albums",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://Kyichan.github.io/React-Assignment1",
+  "homepage": "https://Kyichan.github.io/React-Assignment1",
   "dependencies": {
     "-": "^0.0.1",
     "axios": "^0.21.0",
